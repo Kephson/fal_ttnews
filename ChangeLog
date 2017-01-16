@@ -1,0 +1,10 @@
+2017-01-16  Ephraim Härer  <ephraim.haerer@renolit.com>
+
+	* update for 7.6 LTS
+	* release of version 0.5.0
+
+
+2016-01-25  Ephraim Härer  <ephraim.haerer@renolit.com>
+
+	* update of file link generation cause by umlauts
+	* release of version 0.2.0

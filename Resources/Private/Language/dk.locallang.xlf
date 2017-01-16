@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2017-01-16T13:47:45Z" product-name="fal_ttnews">
+		<header/>
+		<body>
+			<trans-unit id="tt_news.copy1" approved="yes">
+				<source>Copy to Caption</source> 
+				<target state="translated">Kopier til Billedtekst</target>
+			</trans-unit>
+			<trans-unit id="tt_news.copy2" approved="yes">
+				<source>Copy to Alt Text</source> 
+				<target state="translated">Kopier til Alternativ tekst</target>
+			</trans-unit>
+			<trans-unit id="tt_news.copy3" approved="yes">
+				<source>Copy to Title Text</source> 
+				<target state="translated">Kopier til Titeltekst</target>
+			</trans-unit>
+			<trans-unit id="tt_news.tx_falttnews_fal_description" approved="yes">
+				<source>FAL Information</source> 
+				<target state="translated">FAL Informationer</target>
+			</trans-unit>
+			<trans-unit id="tt_news.tx_falttnews_fal_images" approved="yes">
+				<source>FAL Images</source> 
+				<target state="translated">FAL Billeder</target>
+			</trans-unit>
+			<trans-unit id="tt_news.tx_falttnews_fal_media" approved="yes">
+				<source>FAL Media</source> 
+				<target state="translated">FAL Medier</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
